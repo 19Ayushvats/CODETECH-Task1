@@ -15,7 +15,7 @@
 The primary objective of this Exploratory Data Analysis (EDA) project is to gain a comprehensive understanding of the health disease dataset by identifying key patterns, trends, and relationships within the data. This involves cleaning and preprocessing the dataset, performing descriptive statistics, and visualizing critical insights to uncover factors that may influence the prevalence and severity of health diseases. The analysis aims to provide actionable insights that can inform healthcare professionals and policymakers in making data-driven decisions to improve patient outcomes and public health strategies.
 
 ### Key activities
-**Data Collection and Understanding:** Collected the health disease dataset from a reliable source. Understood the dataset's structure, including the number of rows, columns, and data types.
+**Data Collection and Understanding:** Collected the health disease dataset from a reliable source. Understood the dataset's structure, including the number of rows, columns, and data types.<br>
 **Visualizations:** Created visualizations to communicate findings effectively
 **Correlation Analysis:**Computed the correlation coefficients to identify relationships between numerical features. Visualized correlations using a heatmap to identify strong positive or negative correlations.
 
