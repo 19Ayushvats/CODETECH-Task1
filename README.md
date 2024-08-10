@@ -1,4 +1,4 @@
-# CODETECH-Task1
+# CODTECH-Task1
 
 **Name:** AYUSH VATS<br>
 **Company :** CODETECH IT SOLUTIONS <br>
